@@ -1,5 +1,5 @@
 {
-  "name": "@ntacorpnumberapimanager/xmlparser",
+  "name": "ntacorpnumberapimanager-xmlparser",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/cjs/index.js",
